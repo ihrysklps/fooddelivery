@@ -28,8 +28,8 @@ function Footer() {
         <div className="footer-contact">
           <h3>Get in touch</h3>
           <ul>
-            <li>+91 8765777021</li>
-            <li>yoyo@gmail.com</li>
+            <li>+91 8840404413</li>
+            <li>hrydyansh@gmail.com</li>
           </ul>
         </div>
       </div>
